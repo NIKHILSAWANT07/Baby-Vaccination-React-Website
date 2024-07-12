@@ -1,14 +1,9 @@
 {
   "name": "react",
-  "homepage": "https://github.com/NIKHILSAWANT07/Baby-Vaccination-React-Website",
+  "homepage": "https://nikhilsawant07.github.io/Baby-Vaccination-React-Website",
   "version": "1",
   "author": "Nix",
-  "license": "",
-  "description": "",
-  "repository": {
-    "type": "",
-    "url": ""
-  },
+  "description": "Baby Vaccination Website",
   "dependencies": {
     "@emotion/cache": "11.11.0",
     "@emotion/react": "^11.11.0",
@@ -41,13 +36,14 @@
   },
   "scripts": {
     "start": "react-scripts start",
+        "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
-    "install:peer-deps": "npm install --legacy-peer-deps",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "install:peer-deps": "npm install --legacy-peer-deps"
+
   },
   "eslintConfig": {
     "extends": [
