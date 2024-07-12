@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/css/main.6f1dbdd1.css",
+    "main.js": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/js/main.a9cddbe3.js",
+    "static/media/calender.jpg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/calender.d02ce6cebe54bdebba8b.jpg",
+    "static/media/nikhil.jpg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/nikhil.d83fa44a025d947aa8aa.jpg",
+    "static/media/bannerbg.jpg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/bannerbg.5ae69fe716e03107c893.jpg",
+    "static/media/slide2.jpg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/slide2.2551605c021e4f24b803.jpg",
+    "static/media/mohit.jpg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/mohit.9494502d01c8755fe10b.jpg",
+    "static/media/slide1.jpg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/slide1.77ff83277a89c238a90b.jpg",
+    "static/media/slide3.jpg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/slide3.99f45148029ce0923cc6.jpg",
+    "static/media/curved0.jpg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/curved0.cf463e6edb1840e0c81f.jpg",
+    "static/media/white-curved.jpeg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/white-curved.a5b7db662b0b14ab5534.jpeg",
+    "static/media/curved-6.jpg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/curved-6.34f16b3ea2a720909d3f.jpg",
+    "static/media/gid.jpg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/gid.a99514b59f13d5b13eaa.jpg",
+    "static/media/blueprint.pdf": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/blueprint.7920bcfdfd30b5797b94.pdf",
+    "static/media/protect.jpg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/protect.e9443186cd2c291c405a.jpg",
+    "static/media/bruce-mars.jpg": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/media/bruce-mars.45f6477957606abd2f24.jpg",
+    "index.html": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/index.html",
+    "main.6f1dbdd1.css.map": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/css/main.6f1dbdd1.css.map",
+    "main.a9cddbe3.js.map": "/NIKHILSAWANT07/Baby-Vaccination-React-Website/static/js/main.a9cddbe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f1dbdd1.css",
+    "static/js/main.a9cddbe3.js"
+  ]
+}
