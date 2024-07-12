@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Baby-Vaccination-React-Website/static/css/main.9343b7a8.css",
-    "main.js": "/Baby-Vaccination-React-Website/static/js/main.a681d3e4.js",
+    "main.js": "/Baby-Vaccination-React-Website/static/js/main.8c475fb4.js",
     "static/media/calender.jpg": "/Baby-Vaccination-React-Website/static/media/calender.d02ce6cebe54bdebba8b.jpg",
     "static/media/nikhil.jpg": "/Baby-Vaccination-React-Website/static/media/nikhil.d83fa44a025d947aa8aa.jpg",
     "static/media/bannerbg.jpg": "/Baby-Vaccination-React-Website/static/media/bannerbg.5ae69fe716e03107c893.jpg",
@@ -18,10 +18,10 @@
     "static/media/bruce-mars.jpg": "/Baby-Vaccination-React-Website/static/media/bruce-mars.45f6477957606abd2f24.jpg",
     "index.html": "/Baby-Vaccination-React-Website/index.html",
     "main.9343b7a8.css.map": "/Baby-Vaccination-React-Website/static/css/main.9343b7a8.css.map",
-    "main.a681d3e4.js.map": "/Baby-Vaccination-React-Website/static/js/main.a681d3e4.js.map"
+    "main.8c475fb4.js.map": "/Baby-Vaccination-React-Website/static/js/main.8c475fb4.js.map"
   },
   "entrypoints": [
     "static/css/main.9343b7a8.css",
-    "static/js/main.a681d3e4.js"
+    "static/js/main.8c475fb4.js"
   ]
 }
