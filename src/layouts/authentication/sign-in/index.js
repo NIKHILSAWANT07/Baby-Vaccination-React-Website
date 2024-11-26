@@ -12,26 +12,26 @@ function SignIn() {
   const [password,setPassword]=useState('')
   const handleClick=(e)=>{
     e.preventDefault()
-    //  window.location.href = '/dashboard/25';
+     window.location.href = '/dashboard/07';
 
-    const loginuser={email,password}
-    console.log(loginuser)
-    axios.post("http://localhost:8080/authentication/sign-in",loginuser)
-    .then((response) => {
-      const responseData = response.data;
-      if (responseData) {
-        window.location.href = '/dashboard/' + responseData;
-      console.log("successfull login")
+  //   const loginuser={email,password}
+  //   console.log(loginuser)
+  //   axios.post("http://localhost:8080/authentication/sign-in",loginuser)
+  //   .then((response) => {
+  //     const responseData = response.data;
+  //     if (responseData) {
+  //       window.location.href = '/dashboard/' + responseData;
+  //     console.log("successfull login")
 
 
-      } else {
-          window.alert("Invalid credentials. Please try again.");
-      }
-  })
-  .catch((error) => {
-      console.error("Error occurred during login:", error);
-      window.alert("Invalid credentials... Please try again later.");
-  });
+  //     } else {
+  //         window.alert("Invalid credentials. Please try again.");
+  //     }
+  // })
+  // .catch((error) => {
+  //     console.error("Error occurred during login:", error);
+  //     window.alert("Invalid credentials... Please try again later.");
+  // });
   }
 
   return (
